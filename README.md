@@ -20,22 +20,6 @@ I also have a creative side, both in the written and visual arts. I used to be a
 
 ---
 
-## Tech stack
-
-**Core**
-- Python, R, Rust, STATA (data science, analysis, scripting)
-- Luau (Roblox systems)
-- MySQL, PostgreSQL, MongoDB (data querying and aggregation)
-
-**Tools**
-- Roblox Studio
-- Git / GitHub
-- Jupyter / Python data stack (NumPy, pandas, matplotlib, scikit-learn, PyTorch)
-- VS Code
-- RStudio
-
----
-
 ## Projects
 
 Click on the images in the sections to go to the repositories!
