@@ -35,6 +35,12 @@ Click on the images in the sections to go to the repositories!
     width="300"
   />
   </a>
+
+  ### Note
+
+  The main file is intentionally obfuscated, due to its popularity and repeated reverse engineering attempts on the project. If you are viewing my profile for hiring or talent scouting reasons, you likely have an email address that I provided. 
+  
+  Please reach out to that email if you are interested in viewing this project, and we can discuss access to the private repository that contains the full source code.
 </details>
 
 <details>
