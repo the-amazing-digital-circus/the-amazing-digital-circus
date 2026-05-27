@@ -27,7 +27,7 @@ Click on the images in the sections to go to the repositories!
 <details>
   <summary>The Milk Script</summary>
 
-  Currently my most popular work. Used by tens of thousands weekly. 
+  Currently my most popular work, with 20k+ monthly active users. 
   
   <a href="https://github.com/the-amazing-digital-circus/Milk">
   <img 
