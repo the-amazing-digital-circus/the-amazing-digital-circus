@@ -4,6 +4,8 @@ I’m a data scientist who works at the intersection of systems, automation, and
 
 My formal education is in data science and statistics, but most of my practical work focuses on building real-time systems, scripting frameworks, and automation tools. Currently, my work primarily applies to Roblox, and similar interactive environments, but I see no reason why I wouldn't be capable of extending my skills for other uses.
 
+Many may be familiar with Milk, a project that I have been developing for private use since July 2025, which I shared to the public in April 2026. It has become a viral product on debut, with 60k+ user sessions being created within the first week of release.
+
 I enjoy taking structured, analytical thinking and applying it to messy, real-world systems; the crossroads of performance, state, and behavior.
 
 I also have a creative side, both in the written and visual arts. I used to be a journalism major and took lots of courses in graphic design/video editing in my education.
