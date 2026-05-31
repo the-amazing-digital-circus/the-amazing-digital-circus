@@ -2,7 +2,9 @@
 
 I’m a data scientist who works at the intersection of systems, automation, and game development.
 
-My formal education is in data science and statistics; I graduated with a BS in Data Science from the Faculty of Computing and Data Sciences @ Boston University in 2026. However, most of my practical work focuses on building real-time systems, scripting frameworks, and automation tools. Currently, my work primarily applies to Roblox, and similar interactive environments, but I see no reason why I wouldn't be capable of extending my skills for other uses.
+My formal education is in data science and statistics; I graduated with a BS in Data Science from the Faculty of Computing and Data Sciences @ Boston University in 2026. 
+
+Most of my practical work focuses on building real-time systems, scripting frameworks, and automation tools. Currently, my work primarily applies to Roblox, and similar interactive environments, but I see no reason why I wouldn't be capable of extending my skills for other uses.
 
 If you are reading this, you may be familiar with Milk, a project that I have been developing for private use since July 2025, which I released to the public in April 2026. It has become a viral product on debut, with 60k+ user sessions being created within the first week of public access.
 
@@ -26,12 +28,26 @@ I also have creative talent in the written and visual arts. I used to be a journ
 
 Click on the images in the sections to go to the repositories!
 
+
+<details>
+  <summary>Smoking Scripts</summary>
+
+  Front-end work and business writing for a suite of automation tools, which one of my projects is a part of. Includes showcases, descriptions, social media and community links, and mission statements.
+  
+  <a href="https://the-amazing-digital-circus.github.io/smoking-scripts" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://github.com/user-attachments/assets/9eb046e3-7bef-49fe-a665-60b7f0feb04c" 
+    width="300"
+  />
+  </a>
+</details>
+
 <details>
   <summary>The Milk Script</summary>
 
-  Currently my most popular work, with 20k+ monthly active users. 
+  Currently my most popular work, with 20k+ monthly active users; a part of Smoking Scripts. 
   
-  <a href="https://github.com/the-amazing-digital-circus/Milk">
+  <a href="https://github.com/the-amazing-digital-circus/Milk" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://github.com/user-attachments/assets/75c3a14b-e163-4ab0-8d7b-5563647992a0" 
     width="300"
@@ -50,7 +66,7 @@ Click on the images in the sections to go to the repositories!
 
   A state-space search project that has multiple algorithm options available for solving sliding tile puzzles.
   
-  <a href="https://github.com/the-amazing-digital-circus/8-Puzzle-Solver">
+  <a href="https://github.com/the-amazing-digital-circus/8-Puzzle-Solver" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://github.com/user-attachments/assets/7ec35038-17a2-4810-9c72-7be0e142eab2" 
     width="300"
@@ -63,7 +79,7 @@ Click on the images in the sections to go to the repositories!
 
   A project created with textbook object-oriented-programming to create a playable Connect 4; featuring an AI player that uses lookahead reasoning that can be quite challenging to beat!
   
-  <a href="https://github.com/the-amazing-digital-circus/Connect-Four">
+  <a href="https://github.com/the-amazing-digital-circus/Connect-Four" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://github.com/user-attachments/assets/a0af4e9f-7f71-42a2-ae50-365a2c2ca405" 
     width="300"
