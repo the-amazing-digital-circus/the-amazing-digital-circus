@@ -52,7 +52,7 @@ Click on the images in the sections to go to the repositories!
 
   ### Note
 
-  The main source code of this project is intentionally obfuscated, due to Milk's popularity, which has led to repeated reverse engineering attempts on my work which I strictly prohibit. 
+  The main source code of this project is intentionally obfuscated, as Milk's popularity has led to repeated reverse engineering attempts on my work, which I strictly prohibit.
   
   If you are viewing my profile for hiring or talent scouting reasons, you likely have an email address that I provided. Please reach out to that email address if you are interested in viewing this project, and we can discuss access to the private repository that contains the full source code.
 </details>
