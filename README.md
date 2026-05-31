@@ -30,7 +30,7 @@ Click on the images in the sections to go to the repositories!
 <details>
   <summary>Smoking Scripts</summary>
 
-  Front-end work and business writing for a suite of automation tools, which one of my projects is a part of. Includes showcases, descriptions, social media and community links, and mission statements.
+  Front-end website and business writing for a suite of tools. The site includes showcases, descriptions, community resources, social links, and information about the project's goals and mission.
   
   <a href="https://the-amazing-digital-circus.github.io/smoking-scripts" target="_blank" rel="noopener noreferrer">
   <img 
@@ -43,7 +43,7 @@ Click on the images in the sections to go to the repositories!
 <details>
   <summary>The Milk Script</summary>
 
-  Milk is a project that I have been developing for individual use since July 2025, which was released to the public in April 2026. It became a viral product on debut, with 60k+ user sessions being created within the first week of public access. This project is a part of Smoking Scripts.
+  Milk is a project that I have been developing for individual use since July 2025, which was released to the public in April 2026. It became a viral product on debut, with 60k+ user sessions being created within the first week of public access. Milk serves as one of the programs featured on the Smoking Scripts website.
   
   <a href="https://github.com/the-amazing-digital-circus/Milk" target="_blank" rel="noopener noreferrer">
   <img 
