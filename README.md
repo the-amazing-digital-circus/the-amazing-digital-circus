@@ -1,6 +1,6 @@
 # Welcome!
 
-I’m a data scientist who works at the intersection of systems, automation, and game development. I graduated with a BS in Data Science from the [Faculty of Computing and Data Sciences](https://www.bu.edu/cds-faculty/) @ Boston University in 2026. 
+I’m a data scientist who works at the intersection of systems, automation, and game development. I am expected to graduate from the [Faculty of Computing and Data Sciences](https://www.bu.edu/cds-faculty/) @ Boston University in 2026. 
 
 Most of my practical work focuses on building real-time systems, scripting frameworks, and automation tools. Currently, my work primarily applies to Roblox, and similar interactive environments, but I am capable of expanding my knowledge and can quickly and easily pick up new skills with few mistakes.
 
