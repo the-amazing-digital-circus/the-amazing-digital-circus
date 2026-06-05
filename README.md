@@ -4,8 +4,6 @@ I’m a data scientist who works at the intersection of systems, automation, and
 
 Most of my practical work focuses on building real-time systems, scripting frameworks, and automation tools. Currently, my work primarily applies to Roblox, and similar interactive environments, but I am capable of expanding my knowledge and can quickly and easily pick up new skills with few mistakes.
 
-I enjoy taking structured, analytical thinking and applying it to messy, real-world systems, where performance, state, and behavior all need to be accounted for.
-
 I also have creative talent in the written and visual arts. I used to be a journalism major, and took lots of courses and took up hobbies in graphic design/video editing.
 
 ---
@@ -22,7 +20,7 @@ I also have creative talent in the written and visual arts. I used to be a journ
 
 ## Projects
 
-Click on the images in the sections to go to the repositories.
+Click on the images in the sections to go to the project's primary link.
 
 
 <details>
