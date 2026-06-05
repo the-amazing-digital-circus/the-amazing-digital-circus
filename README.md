@@ -12,17 +12,17 @@ I also have creative talent in the written and visual arts. I used to be a journ
 
 ## What I do
 
-- Data science & applied statistics (data cleaning, database management, modeling, & exploratory analysis)
+- Data science, machine learning, & applied statistics (data cleaning, database management, modeling, deep learning, & exploratory analysis)
 - Roblox system design (game mechanics, automation, scripting architecture, user experience)
-- Automation tooling (workflow optimization, in-game systems, scripts, data pipelines)
+- Automation tooling (workflow optimization, in-game systems, data pipelines, algorithms)
 - Data-driven decision making for gameplay and system balancing
-- Interpreting data and honing interpersonal and creative skills for delivering insights for clarity and understanding
+- Honing interpersonal and creative skills for explainable data insights
 
 ---
 
 ## Projects
 
-Click on the images in the sections to go to the repositories!
+Click on the images in the sections to go to the repositories.
 
 
 <details>
