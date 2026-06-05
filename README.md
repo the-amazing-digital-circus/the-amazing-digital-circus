@@ -20,7 +20,7 @@ I also have creative talent in the written and visual arts. I used to be a journ
 
 ## Projects
 
-Click on the images in the sections to go to the project's primary link.
+Click on the images in the sections to go to the project's related link(s).
 
 
 <details>
@@ -31,7 +31,7 @@ Click on the images in the sections to go to the project's primary link.
   <a href="https://the-amazing-digital-circus.github.io/smoking-scripts" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://github.com/user-attachments/assets/9eb046e3-7bef-49fe-a665-60b7f0feb04c" 
-    width="300"
+    width="498"
   />
   </a>
 </details>
@@ -41,10 +41,17 @@ Click on the images in the sections to go to the project's primary link.
 
   Milk is a project that I have been developing for individual use since July 2025, which was released to the public in April 2026. It became a viral product on debut, with 60k+ user sessions being created within the first week of public access. Milk serves as one of the programs featured on the Smoking Scripts website.
   
-  <a href="https://github.com/the-amazing-digital-circus/Milk" target="_blank" rel="noopener noreferrer">
+  <a href="https://the-amazing-digital-circus.github.io/smoking-scripts/milk.html" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://github.com/user-attachments/assets/75c3a14b-e163-4ab0-8d7b-5563647992a0" 
-    width="300"
+    width="498"
+  />
+  </a><br>
+
+  <a href="https://github.com/the-amazing-digital-circus/Milk" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://mbmsyxdoahapgsueazkm.supabase.co/functions/v1/readme-graph" 
+    width="498"
   />
   </a>
 
@@ -63,7 +70,7 @@ Click on the images in the sections to go to the project's primary link.
   <a href="https://github.com/the-amazing-digital-circus/8-Puzzle-Solver" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://github.com/user-attachments/assets/7ec35038-17a2-4810-9c72-7be0e142eab2" 
-    width="300"
+    width="498"
   />
   </a>
 </details>
@@ -76,7 +83,7 @@ Click on the images in the sections to go to the project's primary link.
   <a href="https://github.com/the-amazing-digital-circus/Connect-Four" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://github.com/user-attachments/assets/a0af4e9f-7f71-42a2-ae50-365a2c2ca405" 
-    width="300"
+    width="498"
   />
   </a>
 </details>
