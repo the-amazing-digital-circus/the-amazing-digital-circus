@@ -118,6 +118,6 @@ Click on the images in the sections to go to the project's related link(s).
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 **Other**
-- Adobe Creative Cloud (Photoshop, Illustrator, Premiere Pro, After Effects)
+- Adobe Creative Cloud (Ps, Ai, Pr, Ae)
 - STATA
 - Roblox Studio
