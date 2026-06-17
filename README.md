@@ -20,7 +20,7 @@ I also have creative talent in the written and visual arts. I used to be a journ
 
 ## Projects
 
-Click on the images in the sections to go to the project's related link(s).
+Click on the images in the sections to go to the project's related link.
 
 
 <details>
@@ -41,14 +41,14 @@ Click on the images in the sections to go to the project's related link(s).
 
   Milk is a project that I have been developing for individual use since July 2025, which was released to the public in April 2026. It became a viral product on debut, with 60k+ user sessions being created within the first week of public access. Milk serves as one of the programs featured on the Smoking Scripts website.
   
-  <a href="https://the-amazing-digital-circus.github.io/smoking-scripts/milk.html" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/the-amazing-digital-circus/Milk" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://github.com/user-attachments/assets/75c3a14b-e163-4ab0-8d7b-5563647992a0" 
     width="498"
   />
   </a><br>
 
-  <a href="https://github.com/the-amazing-digital-circus/Milk" target="_blank" rel="noopener noreferrer">
+  <a href="https://the-amazing-digital-circus.github.io/smoking-scripts/milk.html" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://mbmsyxdoahapgsueazkm.supabase.co/functions/v1/readme-graph" 
     width="498"
