@@ -26,7 +26,7 @@ Click on the images in the sections to go to the project's related link(s).
 <details>
   <summary>Smoking Scripts</summary>
 
-  Front-end website and business writing for a suite of tools. The site includes showcases, descriptions, community resources, social links, and information about the project's goals and mission.
+  Front-end website and business writing for a suite of tools ran by a duo-developer team. The site includes showcases, descriptions, community resources, social links, and information about the project's goals and mission.
   
   <a href="https://the-amazing-digital-circus.github.io/smoking-scripts" target="_blank" rel="noopener noreferrer">
   <img 
