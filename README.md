@@ -27,7 +27,7 @@ Click on the images in the sections to go to the project's related link.
 
   Smoking Scripts is a development group founded in 2020 that offers a large suite of tools that are intuitive and powerful for any purpose. Since the group's inception, products created by Smoking Scripts have been used over 3 billion times worldwide.
 
-  I joined Smoking Scripts in 2022. I also created the website for Smoking Scripts, and act as the manager for the community support chatroom. Currently, Smoking Scripts is only ran by two people (including me).
+  I joined Smoking Scripts in 2022. I also created the website for Smoking Scripts, and act as the graphic designer for promotional artwork, and am the manager for the community support chatroom. Currently, Smoking Scripts is only ran by two people (including me).
   
   <a href="https://the-amazing-digital-circus.github.io/smoking-scripts" target="_blank" rel="noopener noreferrer">
   <img 
