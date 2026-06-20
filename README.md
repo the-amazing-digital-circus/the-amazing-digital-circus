@@ -2,7 +2,7 @@
 
 I’m a data scientist who works on systems, automation, and game development. I am expected to graduate from the [Faculty of Computing and Data Sciences](https://www.bu.edu/cds-faculty/) @ Boston University in 2026. 
 
-Most of my work focuses on building real-time systems, scripting frameworks, and automation tools. Currently, my active projects apply to Roblox, but I am capable of expanding my knowledge and can quickly and easily pick up new skills with few mistakes.
+Most of my work focuses on building real-time systems, scripting frameworks, and automation tools. Currently, my active projects apply to Roblox, but I am capable of expanding my knowledge and can quickly and easily pick up new skills with few mistakes. I've been programming for Roblox since 2017, and joined a script development team in 2022, where I began creating and contributing to real projects that had large audiences; since then, my knowledge has only grown.
 
 I also have creative talent in the written and visual arts. I used to be a journalism major, and took lots of courses and took up hobbies in graphic design/video editing.
 
@@ -26,7 +26,7 @@ Click on the images in the sections to go to the project's related link.
 <details>
   <summary>Smoking Scripts</summary>
 
-  Front-end website and business writing for a suite of tools ran by a duo-developer team. The site includes showcases, descriptions, community resources, social links, and information about the project's goals and mission.
+  Smoking Scripts is a script development group founded in 2020 that offers a large suite of tools that are intuitive and powerful for any purpose. Since inception, products created by Smoking Scripts have been used over 3 billion times worldwide.
   
   <a href="https://the-amazing-digital-circus.github.io/smoking-scripts" target="_blank" rel="noopener noreferrer">
   <img 
