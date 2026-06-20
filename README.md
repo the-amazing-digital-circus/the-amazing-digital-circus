@@ -22,11 +22,12 @@ I also have creative talent in the written and visual arts. I used to be a journ
 
 Click on the images in the sections to go to the project's related link.
 
-
 <details>
   <summary>Smoking Scripts</summary>
 
-  Smoking Scripts is a script development group founded in 2020 that offers a large suite of tools that are intuitive and powerful for any purpose. Since inception, products created by Smoking Scripts have been used over 3 billion times worldwide.
+  Smoking Scripts is a development group founded in 2020 that offers a large suite of tools that are intuitive and powerful for any purpose. Since the group's inception, products created by Smoking Scripts have been used over 3 billion times worldwide.
+
+  I joined Smoking Scripts in 2022. I also created the website for Smoking Scripts, and act as the manager for the community support chatroom. Currently, Smoking Scripts is only ran by two people (including me).
   
   <a href="https://the-amazing-digital-circus.github.io/smoking-scripts" target="_blank" rel="noopener noreferrer">
   <img 
@@ -39,7 +40,9 @@ Click on the images in the sections to go to the project's related link.
 <details>
   <summary>The Milk Script</summary>
 
-  Milk is a project that I have been developing for individual use since July 2025, which was released to the public in April 2026. It became a viral product on debut, with 60k+ user sessions being created within the first week of public access. Milk serves as one of the programs featured on the Smoking Scripts website.
+  Milk is one of the programs offered by Smoking Scripts. It is a project that I created on my own for personal use since July 2025; I decided to release it to the public in April 2026. It became a viral product on debut, with 60k+ sessions being created within the first week of public access.
+  
+  I am the only person who works on Milk, and I fully handle all operations, including (but not limited to): development, marketing & advertising (video editing, graphic design, social media management), customer support, and moderation of the script's community chatroom.
   
   <a href="https://github.com/the-amazing-digital-circus/Milk" target="_blank" rel="noopener noreferrer">
   <img 
@@ -59,7 +62,7 @@ Click on the images in the sections to go to the project's related link.
 
   The main source code of this project is intentionally obfuscated, as Milk's popularity has led to repeated reverse engineering attempts on my work, which I strictly prohibit.
   
-  If you are viewing my profile for hiring or talent scouting reasons, you likely have an email address that I provided. Please reach out to that email address if you are interested in viewing this project, and we can discuss access to the private repository that contains the full source code.
+  If you are viewing my profile for talent acquisition reasons, please reach out to discuss access to the private repository that contains the full source code.
 </details>
 
 <details>
